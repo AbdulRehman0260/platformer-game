@@ -11,4 +11,7 @@ def func():
 print('Hello')
 
 def new_work():
-    print('Hello this is the new work that im doing')ß
+    print('Hello this is the new work that im doing')
+
+print('hello')
+
